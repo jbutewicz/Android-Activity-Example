@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Activity Example</string>
+
+    <string name="activity_title_main">This is our main activity.\n\nWe can launch a different activity by clicking one of the following buttons.</string>
+    <string name="activity_title_1">This is activity number 1.\n\nPress back to return to the main activity.</string>
+    <string name="activity_title_2">This is activity number 2.\n\nPress back to return to the main activity.</string>
+    <string name="activity_title_3">This is activity number 3.\n\nPress back to return to the main activity.</string>
+
+    <string name="button_1">Launch Activity 1</string>
+    <string name="button_2">Launch Activity 2</string>
+    <string name="button_3">Launch Activity 3</string>
+
+    <string name="title_activity_activity1">Activity1</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_activity3">Activity3</string>
+
+</resources>
